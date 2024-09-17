@@ -68,3 +68,6 @@ def get_all_liked_songs(sp):
         else:
             break
     return liked_songs
+
+def get_current_user(sp):
+    return sp.current_user()

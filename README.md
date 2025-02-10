@@ -1,6 +1,6 @@
 # Spotify Playlist Manager
 
-Spotify Playlist Manager is a powerful command-line tool designed to help Spotify users efficiently organize and manage their playlists. This application offers a range of features to streamline your music library, including:
+Spotify Playlist Manager is a command-line tool designed to help Spotify users efficiently organize and manage their playlists. This application offers a range of features to streamline your music library, including:
 
 - Removing duplicate tracks within playlists
 - Identifying duplicate songs across multiple playlists
